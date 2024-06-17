@@ -43,7 +43,7 @@ html {
     -webkit-backface-visibility:  hidden;
     -webkit-transform:  translateZ(0) scale(1.0, 1.0);
     transform:  translateZ(0);
-    background:  #c6c6c6 url('https://drive.google.com/uc?export=view&id=11toO8mu-SbGN2FazVDDE9QeQjT2m_aQ7') no-repeat fixed top center/99%;
+    background:  #c6c6c6 url('https://bradylcarey.github.io/about-me-css/DoinWork.jpg') no-repeat fixed top center/99%;
     animation:  grow 30s  linear 10ms infinite;
     transition:  all 0.2s ease-in-out;
     z-index: -2
